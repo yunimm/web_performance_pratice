@@ -1,5 +1,10 @@
 name: lighthouse-ci demo
-on: [push]
+
+on:
+  push:
+    branches:
+      - master
+
 jobs:
   lhci:
     name: Lighthouse CI
