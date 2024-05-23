@@ -14,7 +14,7 @@
       }
     },
     "collect": {
-      "staticDistDir": "./dist"
+      "staticDistDir": "./.output/public"
     }
   }
 }
