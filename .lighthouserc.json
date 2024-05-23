@@ -12,6 +12,9 @@
           { "aggregationMethod": "optimistic", "minScore": 0.95 }
         ]
       }
+    },
+    "collect": {
+      "staticDistDir": "./dist"
     }
   }
 }
